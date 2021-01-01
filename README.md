@@ -9,7 +9,7 @@ It combines robot sensor measurements and movement to create a map of an environ
   <img src="./images/robot_world.png" width=50% height=50% />
 </p>
 
-The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, **only Notebook 3 and the `robot_class.py` file will be graded**:
+The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures.
 
 __Notebook 1__ : Robot Moving and Sensing
 
