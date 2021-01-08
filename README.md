@@ -18,7 +18,3 @@ __Notebook 2__ : Omega and Xi, Constraints
 __Notebook 3__ : Landmark Detection and Tracking 
 
 
-
-
-
-LICENSE: This project is licensed under the terms of the MIT license.
